@@ -1,0 +1,15 @@
+This assignment was made by Pleurat Spahiu (pleuratt.spahiu@gmail.com)
+Date given:     03/04/23 
+Date finished: 07/04/23 approx: 8-10 hours to complete
+
+On the supplied website I have done exploratory testing and since there were no rules for documentation, I have written first test scenarios,test cases and bug report in Excel.
+From test cases I have executed parallel test cases while testing on the website and reported in bugreport document.
+For this assignment I have used my knowledge from my courses I followed - the practical part where I used those excel templates provived by the teacher to do practical part.
+❃Since Functional Requirement Specification (FRS) document was not provided note that some bugs/defects might be features.
+❃Requirement Traceability Matrix (RTM) is not there since cannot do the mapping without prepared documents.
+❃Screenshots decided to not include.
+❃Webpage was tested on 2 browsers (Chrome and Edge) and Chrome from iOS mobile device.
+❃Total 18 bugs were found by doing exploratory testing , in some test cases its the same bug of the same scenario but those were not counted only listed as copy bugs.
+
+
+The assignment instructions were very clear to understand and It was a very good experince and fun to finish it!

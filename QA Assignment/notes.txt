@@ -10,6 +10,6 @@ For this assignment I have used my knowledge from my courses I followed - the pr
 ❃Screenshots decided to not include.
 ❃Webpage was tested on 2 browsers (Chrome and Edge) and Chrome from iOS mobile device.
 ❃Total 18 bugs were found by doing exploratory testing , in some test cases its the same bug of the same scenario but those were not counted only listed as copy bugs.
-
+sdfsdfds
 sdadsad
 The assignment instructions were very clear to understand and It was a very good experince and fun to finish it!
